@@ -1,0 +1,42 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #575757;
+    background-color: #e6e6e6;
+}
+.pagetitle {
+    color: black;
+    font-style: italic;
+
+}
+h1,h2,h3,h3,h4,h5,h6 {
+    color: black;
+    
+
+}
+a { color: blue;}
+a:visited {color: rgba(166, 32, 243, 0.701);}
+a:hover {text-decoration: underline;}
+.bold {font-weight: bold;}
+.italic {font-style: italic;}
+.homebackground {
+    background-image: src= "../../Walker_Evans_Framing_Logo.png" alt="Walker Evans Framing Logo";}
+
+.box {
+    border-width: 1px;
+    border-style: solid;
+}
+.box1 {
+    border-style: solid;
+    border-color: black;
+}
+.box2 {
+    border-style: double;
+    padding: 4px;
+    border-color: darkblue;
+}
+.box3 {
+    border-width: 2px;
+    margin: 5px;
+    border-color: lightslategray;
+}
