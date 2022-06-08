@@ -20,7 +20,9 @@ a:hover {text-decoration: underline;}
 .bold {font-weight: bold;}
 .italic {font-style: italic;}
 
-.homebackground { background-image: url(Walker_Evans_Framing_Logo.png); }
+.homebackground { 
+    background-image: url(Walker_Evans_Framing_Logo.png); 
+}
 
 .box {
     border-width: 1px;
