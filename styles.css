@@ -19,8 +19,8 @@ a:visited {color: rgba(166, 32, 243, 0.701);}
 a:hover {text-decoration: underline;}
 .bold {font-weight: bold;}
 .italic {font-style: italic;}
-.homebackground {
-    background-image: src= "../../Walker_Evans_Framing_Logo.png" alt="Walker Evans Framing Logo";}
+
+.homebackground { background-image: url(Walker_Evans_Framing_Logo.png); }
 
 .box {
     border-width: 1px;
